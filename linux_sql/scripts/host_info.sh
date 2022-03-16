@@ -33,7 +33,7 @@ cpu_mhz=$(echo "$lscpu_out"  | egrep "^CPU MHz:" | awk '{print $3}' | xargs)
 l2_cache=$(echo "$lscpu_out"  | egrep "^L2 cache:" | awk '{print $3}' | xargs)
 
 #get total memory
-total_mem=$(grep MemTotal /proc/meminfo)
+total_mem=$(grep MemTotal /proc/meminfo| awk -F ":" '{print $2}' | sed 's/kB//' | xargs)
 
 #get timestamp
 timestamp=$(date '+%Y-%m-%d %T')
