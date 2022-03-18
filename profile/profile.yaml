@@ -1,0 +1,124 @@
+# Preferred name (Characters only)
+name: "Francois Lippe"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_FrancoisLippe
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: My name is Francois Lippe and I am a Bishop's University graduate in Computer Science. My last job was with BRP as a web integrator.
+  Before that, I was a service desk technician for CGI. Since a very young age, I have always been curious about how technology works. I have always been in constant contact with it (video games, computers, phones, etc).
+  When I got older, I decided to study computer science to learn everything I could about the world of technology.
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - C#
+    - HTML
+    - Java
+    - Kotlin
+    - Android Studio
+  # At least 5 skills
+  familiar:
+    - C++
+    - Assembly
+    - Eclipse
+    - Data structures
+    - Big O notation
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description:  The project is meant to monitor each node of the server by recording their hardware specifications as well as their resource usage (e.g. CPU/Memory) in real-time. The collected data is then stored in an RDBMS database. This database is meant to be used by the LCA team (Jarvis Cluster Administration) to generate reports for future resource planning purposes (e.g. add/remove servers).
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+  - name: "Springboot App"
+    git_url: "/springboot"
+    description: ""
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+  - name: "Spark"
+    git_url: "/spark"
+    description: ""
+  - name: "Cloud/DevOps"
+    git_url: "/cloud_devops"
+    description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Media Player"
+    #URL is optional
+    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Designed an application to play music using Android studio with kotlin as our programming language.
+  - name: "Tower Defence game"
+    git_url:
+    description: Designed a game with the Unity game engine using C#. Programmed many components with Visual studio.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "2020-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+  - title: "Tutor"
+    company: "XYZ Company"
+    duration: "2019"
+    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+
+#List of edcuation
+education: 
+  - school_name: "Bishop's University"
+    duration: "2017-2021"
+    degree: "Bachelor of Applied Sciences"
+    department: "Bachelor of Computer Science"
+    # optional
+    awards_achievements: 
+      - "Scholarship"
+      - "Dean's List (2015, 2016): Ut enim ad minim veniam"
+      - "GPA: 3.8/4.0"
+  - school_name: "Cegep Beauce-Appalaches"
+    duration: "2010-2013"
+    degree: "DEC of Civil Engineering"
+    department: "Electrical and Computer Engineering"
+    awards_achievements: 
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Udacity Machine Learning (2019)"
+  - title: "Awards"
+    bullets:
+      - "Winner"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Basketball player"
+      - "Competitive gaming"
+      - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
