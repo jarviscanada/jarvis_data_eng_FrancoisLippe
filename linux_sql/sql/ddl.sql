@@ -6,7 +6,7 @@ CREATE TABLE PUBLIC.host_info
     cpu_architecture VARCHAR NOT NULL,
     cpu_model        VARCHAR NOT NULL,
     cpu_mhz          FLOAT NOT NULL,
-    L2_cache         VARCHAR NOT NULL\,
+    L2_cache         VARCHAR NOT NULL,
     total_mem        INT NOT NULL,
     timestamp        TIMESTAMP NOT NULL
 );
