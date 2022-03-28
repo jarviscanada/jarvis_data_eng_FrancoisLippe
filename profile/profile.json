@@ -18,7 +18,7 @@
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_FrancoisLippe",
   "highlighted_projects": [
     {
-      "description": "Designed an application to play music using Android studio with kotlin as our programming language.",
+      "description": "Designed an application to play music using Android studio with Kotlin as our programming language.",
       "git_url": null,
       "name": "Media Player"
     },
@@ -33,15 +33,6 @@
       "description": "The project is meant to monitor each node of the server by recording their hardware specifications as well as their resource usage (e.g. CPU/Memory) in real-time. The collected data is then stored in an RDBMS database. This database is meant to be used by the LCA team (Jarvis Cluster Administration) to generate reports for future resource planning purposes (e.g. add/remove servers).",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
-    },
-    {
-      "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      ],
-      "git_url": "/core_java",
-      "name": "Core Java Apps"
     }
   ],
   "name": "Francois Lippe",
@@ -51,18 +42,26 @@
         "Competitive gaming at Call of Duty"
       ],
       "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Snowboarding",
+        "Skateboarding",
+        "Fishing"
+      ],
+      "title": "Activities/Hobbies"
     }
   ],
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
+      "description": "With the help of the senior development team, I have programmed an application using bash, on a Linux instance, that records and monitors resource usage from other servers.",
       "duration": "2020-present",
       "title": "Software Developer"
     },
     {
       "company": "Bombardier",
-      "description": "Integrated multiple websites for the company using the applicaiton AEM. When integrating the web sites, I also translated them in multiple languages.",
+      "description": "Integrated multiple websites for the company using the application AEM. When integrating the websites, I also translated them into multiple languages",
       "duration": "2020-2022",
       "title": "Web integrator"
     }
@@ -79,8 +78,8 @@
       "C++",
       "Assembly",
       "Eclipse",
-      "Data structures",
-      "Big O notation"
+      "Python",
+      "Unity"
     ],
     "proficient": [
       "Java",
