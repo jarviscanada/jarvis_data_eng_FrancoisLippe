@@ -39,7 +39,7 @@
   "others": [
     {
       "bullets": [
-        "Competitive gaming at Call of Duty"
+        "Competitive gaming"
       ],
       "title": "Certificates"
     },
@@ -55,13 +55,13 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "With the help of the senior development team, I have programmed an application using bash, on a Linux instance, that records and monitors resource usage from other servers.",
+      "description": "Used the Agile/Scrum environment to collaborate with the Data Engineering team for multiple projects. Developed projects using Bash/Linux and Java using multiple technologies such as Docker, Git, PSQL, Maven, and IntelliJ. Led several daily scrum meetings and participated in sprint retrospective meetings.  ",
       "duration": "2020-present",
       "title": "Software Developer"
     },
     {
       "company": "Bombardier",
-      "description": "Integrated multiple websites for the company using the application AEM. When integrating the websites, I also translated them into multiple languages",
+      "description": "Integrated multiple websites for the company using the application AEM. Translated pages in multiple languages using a template. Participated in daily scrum meetings. We also kept an updated database of every recreative vehicle and its specs.",
       "duration": "2020-2022",
       "title": "Web integrator"
     }
@@ -89,5 +89,5 @@
       "Git"
     ]
   },
-  "summary": "My name is Francois Lippe and I am a Bishop's University graduate in Computer Science. My last job was with Bombardier (BRP) as a web integrator. I was tasked with integrating web pages as per the template with the application AEM. Before that, I was a service desk technician for CGI. During this time, I did basic troubleshooting for our clients. Since a very young age, I have always been curious about how technology works. I used to program my consoles so that I could directly download games onto them. I also created custom games in warcraft 3 using their editor."
+  "summary": "My name is Francois Lippe and I am a Bishop's University graduate in Computer Science. I am currently employed as a Data Engineer at Jarvis Consulting Group, where I have been able to learn new and trending technologies and methodologies. My last job was with Bombardier (BRP) as a web integrator where I was tasked with integrating web pages with the application AEM. Before that, I was a service desk technician for CGI. Because I have always been surrounded by various technologies, I have always been curious about their inner workings. At a young age, I would spend some of my time learning how to make games using an editor on one of my game. Growing up I decided to direct this passion into a career, which has led me here."
 }
