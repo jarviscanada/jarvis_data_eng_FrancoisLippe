@@ -1,11 +1,7 @@
 {
   "education": [
     {
-      "awards_achievements": [
-        "Scholarship",
-        "Dean's List (2015, 2016): Ut enim ad minim veniam",
-        "GPA: 3.8/4.0"
-      ],
+      "awards_achievements": null,
       "degree": "Bachelor of Applied Sciences",
       "department": "Bachelor of Computer Science",
       "duration": "2017-2021",
@@ -23,7 +19,7 @@
   "highlighted_projects": [
     {
       "description": "Designed an application to play music using Android studio with kotlin as our programming language.",
-      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
+      "git_url": null,
       "name": "Media Player"
     },
     {
@@ -46,54 +42,15 @@
       ],
       "git_url": "/core_java",
       "name": "Core Java Apps"
-    },
-    {
-      "description": "",
-      "git_url": "/springboot",
-      "name": "Springboot App"
-    },
-    {
-      "description": "",
-      "git_url": "/python_data_anlytics",
-      "name": "Python Data Analytics"
-    },
-    {
-      "description": "",
-      "git_url": "/hadoop",
-      "name": "Hadoop"
-    },
-    {
-      "description": "",
-      "git_url": "/spark",
-      "name": "Spark"
-    },
-    {
-      "description": "",
-      "git_url": "/cloud_devops",
-      "name": "Cloud/DevOps"
     }
   ],
   "name": "Francois Lippe",
   "others": [
     {
       "bullets": [
-        "Udacity Machine Learning (2019)"
+        "Competitive gaming at Call of Duty"
       ],
       "title": "Certificates"
-    },
-    {
-      "bullets": [
-        "Winner"
-      ],
-      "title": "Awards"
-    },
-    {
-      "bullets": [
-        "Basketball player",
-        "Competitive gaming",
-        "Volunteer, ABC Food bank: Ut enim ad minim veniam"
-      ],
-      "title": "Activities/Hobbies"
     }
   ],
   "professional_experience": [
@@ -104,10 +61,10 @@
       "title": "Software Developer"
     },
     {
-      "company": "XYZ Company",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2019",
-      "title": "Tutor"
+      "company": "Bombardier",
+      "description": "Integrated multiple websites for the company using the applicaiton AEM. When integrating the web sites, I also translated them in multiple languages.",
+      "duration": "2020-2022",
+      "title": "Web integrator"
     }
   ],
   "skills": {
@@ -133,5 +90,5 @@
       "Git"
     ]
   },
-  "summary": "My name is Francois Lippe and I am a Bishop's University graduate in Computer Science. My last job was with BRP as a web integrator. Before that, I was a service desk technician for CGI. Since a very young age, I have always been curious about how technology works. I have always been in constant contact with it (video games, computers, phones, etc). When I got older, I decided to study computer science to learn everything I could about the world of technology."
+  "summary": "My name is Francois Lippe and I am a Bishop's University graduate in Computer Science. My last job was with Bombardier (BRP) as a web integrator. I was tasked with integrating web pages as per the template with the application AEM. Before that, I was a service desk technician for CGI. During this time, I did basic troubleshooting for our clients. Since a very young age, I have always been curious about how technology works. I used to program my consoles so that I could directly download games onto them. I also created custom games in warcraft 3 using their editor."
 }
