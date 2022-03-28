@@ -18,7 +18,7 @@
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_FrancoisLippe",
   "highlighted_projects": [
     {
-      "description": "Designed an application to play music using Android studio with kotlin as our programming language.",
+      "description": "Designed an application to play music using Android studio with Kotlin as our programming language.",
       "git_url": null,
       "name": "Media Player"
     },
@@ -33,36 +33,35 @@
       "description": "The project is meant to monitor each node of the server by recording their hardware specifications as well as their resource usage (e.g. CPU/Memory) in real-time. The collected data is then stored in an RDBMS database. This database is meant to be used by the LCA team (Jarvis Cluster Administration) to generate reports for future resource planning purposes (e.g. add/remove servers).",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
-    },
-    {
-      "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      ],
-      "git_url": "/core_java",
-      "name": "Core Java Apps"
     }
   ],
   "name": "Francois Lippe",
   "others": [
     {
       "bullets": [
-        "Competitive gaming at Call of Duty"
+        "Competitive gaming"
       ],
       "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Snowboarding",
+        "Skateboarding",
+        "Fishing"
+      ],
+      "title": "Activities/Hobbies"
     }
   ],
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
+      "description": "Used the Agile/Scrum environment to collaborate with the Data Engineering team for multiple projects. Developed projects using Bash/Linux and Java using multiple technologies such as Docker, Git, PSQL, Maven, and IntelliJ. Led several daily scrum meetings and participated in sprint retrospective meetings.  ",
       "duration": "2020-present",
       "title": "Software Developer"
     },
     {
       "company": "Bombardier",
-      "description": "Integrated multiple websites for the company using the applicaiton AEM. When integrating the web sites, I also translated them in multiple languages.",
+      "description": "Integrated multiple websites for the company using the application AEM. Translated pages in multiple languages using a template. Participated in daily scrum meetings. We also kept an updated database of every recreative vehicle and its specs.",
       "duration": "2020-2022",
       "title": "Web integrator"
     }
@@ -79,8 +78,8 @@
       "C++",
       "Assembly",
       "Eclipse",
-      "Data structures",
-      "Big O notation"
+      "Python",
+      "Unity"
     ],
     "proficient": [
       "Java",
@@ -90,5 +89,5 @@
       "Git"
     ]
   },
-  "summary": "My name is Francois Lippe and I am a Bishop's University graduate in Computer Science. My last job was with Bombardier (BRP) as a web integrator. I was tasked with integrating web pages as per the template with the application AEM. Before that, I was a service desk technician for CGI. During this time, I did basic troubleshooting for our clients. Since a very young age, I have always been curious about how technology works. I used to program my consoles so that I could directly download games onto them. I also created custom games in warcraft 3 using their editor."
+  "summary": "My name is Francois Lippe and I am a Bishop's University graduate in Computer Science. I am currently employed as a Data Engineer at Jarvis Consulting Group, where I have been able to learn new and trending technologies and methodologies. My last job was with Bombardier (BRP) as a web integrator where I was tasked with integrating web pages with the application AEM. Before that, I was a service desk technician for CGI. Because I have always been surrounded by various technologies, I have always been curious about their inner workings. At a young age, I would spend some of my time learning how to make games using an editor on one of my games. Growing up I decided to direct this passion into a career."
 }
