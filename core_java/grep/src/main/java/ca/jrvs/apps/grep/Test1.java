@@ -1,4 +1,4 @@
-package ca.jrvs.apps.practice;
+package ca.jrvs.apps.grep;
 
 public class Test1 {
     public static void main(String[] args){

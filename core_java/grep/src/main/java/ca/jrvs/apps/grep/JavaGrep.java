@@ -1,4 +1,4 @@
-package ca.jrvs.apps.practice;
+package ca.jrvs.apps.grep;
 
 import java.io.File;
 import java.io.IOException;
