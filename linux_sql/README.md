@@ -4,7 +4,7 @@ The servers that the LCA uses are internally connected through a switch and able
 
 For this project, we used Intellij IDE for a big part of the BASH coding phase. Furthermore, we
 used a docker container to store our SQL database. The queries for this database were programmed with DBeaver.
-Finally, everything was constantly saved and sent to GitHub, where the senior devs were able to proofread our code.*******testing
+Finally, everything was constantly saved and sent to GitHub, where the senior devs were able to proofread our code.*******testing*****again
 # Quick Start
 - Start a psql instance using psql_docker.sh
 ```
